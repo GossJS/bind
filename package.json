@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "babel-node script.js",
-    "prepublish": "npm start"
+    "prepublish": "yarn start"
   },
   "name": "ttt",
   "version": "1.0.0",
