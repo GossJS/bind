@@ -18,7 +18,6 @@ https://github.com/tc39/proposal-bind-operator
 http://2ality.com/2013/06/auto-binding.html
 
 
-
-https://www.webpackbin.com/bins/-KxopWyg7qILphy8HDZf (просто stage-0)
-
 https://kodaktor.ru/bind2_a
+
+https://kodaktor.ru/babel_plugin_bind
