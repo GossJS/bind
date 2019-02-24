@@ -23,3 +23,9 @@ https://kodaktor.ru/bind2_a
 https://kodaktor.ru/babel_plugin_bind
 
 https://kodaktor.ru/jsmixer_bind_react
+
+---
+
+https://kodaktor.ru/jquery_babel_bind
+
+https://kodaktor.ru/bind2_b
