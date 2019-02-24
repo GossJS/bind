@@ -21,3 +21,5 @@ http://2ality.com/2013/06/auto-binding.html
 https://kodaktor.ru/bind2_a
 
 https://kodaktor.ru/babel_plugin_bind
+
+https://kodaktor.ru/jsmixer_bind_react
